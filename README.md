@@ -7,7 +7,7 @@ import my twitter posts into xcart5 via a module
 [![Facebook]](http://facebook.com/pages/Modx-support/159804034043556)
 [![Google+]](https://plus.google.com/109498197448404992305)
 [![Email]](mailto:modx.customize@gmail.com)
-[![Dev's x-cart profile](https://forum.x-cart.com/member.php?u=22220)
+[![Dev's x-cart profile]](https://forum.x-cart.com/member.php?u=22220)
 
 ## To install:
 1. Download
