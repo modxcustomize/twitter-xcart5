@@ -9,6 +9,8 @@ import my twitter posts into xcart5 via a module
 [![Email]](mailto:modx.customize@gmail.com)
 [![Dev's x-cart profile]](https://forum.x-cart.com/member.php?u=22220)
 
+[![import my twitter posts into xcart5 via a module markers](http://www.phpcmsmodx.info/images/twitter-xcart-5.png)](http://www.phpcmsmodx.info/images/twitter-xcart-5.png "import my twitter posts into xcart5 via a module")
+
 ## To install:
 1. Download
 2. Unzip the downloaded files.
