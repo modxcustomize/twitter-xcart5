@@ -30,6 +30,6 @@ import my twitter posts into xcart5 via a module
 x-cart 5.x.x
 
 ## Community
-- ** Find a bug?** [Open an issue](https://github.com/modxcustomize/twitter-xcart5/issues). Try to be as specific as possible.
-- ** Have a feature request** [Open an issue](https://github.com/modxcustomize/twitter-xcart5/issues). Tell me why this feature would be useful, and why you and others would want it.
+- Find a bug?** [Open an issue](https://github.com/modxcustomize/twitter-xcart5/issues). Try to be as specific as possible.
+- Have a feature request** [Open an issue](https://github.com/modxcustomize/twitter-xcart5/issues). Tell me why this feature would be useful, and why you and others would want it.
 
